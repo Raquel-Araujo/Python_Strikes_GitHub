@@ -1,0 +1,17 @@
+,Unnamed: 0,All,12 months,24 months,36 months
+0,Strikes with distubances,14.0,12.0,10.0,9.0
+1,Proportion strikes disturbances,63.6,66.7,66.7,69.2
+0, Mean canopy disturbance area,210.5,236.5,264.1,265.1
+1,Min canopy disturbance area,18.9,18.9,18.9,18.9
+2,Max canopy disturbance area,691.4,691.4,691.4,691.4
+0, Mean canopy disturbance volume,2238.2,2540.4,2962.1,3043.0
+1,Min canopy disturbance volume,66.4,66.4,75.0,75.0
+2,Max canopy disturbance volume,10810.2,10810.2,10810.2,10810.2
+0, Mean time to first disturbance,7.3,8.2,8.7,8.5
+1,Std time to first disturbance,4.7,4.5,4.4,4.6
+2,Min time to first disturbance,0.4,0.8,0.8,0.8
+3,Max time to first disturbance,14.0,14.0,14.0,14.0
+4, Mean time to last disturbance,12.9,14.6,14.4,14.3
+5,Std time to last disturbance,7.6,6.8,7.5,7.9
+6,Min time to last disturbance,0.8,0.8,0.8,0.8
+7,Max time to last disturbance,23.9,23.9,23.9,23.9
